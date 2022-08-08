@@ -45,10 +45,10 @@ a {
   background-repeat: no-repeat;
   //background-size: contain;
   background-size: 1200px;
-  height: 80px;
+ // height: 80px;
   //width: 200px;
   margin: 0;
-
+ font-size: 15px;
   @include large {
     height: 190px;
   }
