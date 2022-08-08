@@ -38,6 +38,22 @@ a {
   }
 }
 
+.project-name {
+  background-image: url("IMG_2411A.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 130px;
+  margin: 0;
+
+  @include large {
+    height: 190px;
+  }
+
+  @include medium {
+    height: 160px;
+  }
+}
 
 .page-header {
   color:  #fff000;
