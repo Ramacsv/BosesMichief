@@ -40,10 +40,11 @@ a {
 
 
 .page-header {
-  color:  #ff9505;
+  color:  #fff000;
+  //color:  #ff9505;
   text-align: center;
   background-color: #ff0000;
-  background-image: linear-gradient(220deg, #ff0000, #155799);
+  background-image: linear-gradient(220deg, #ca48a1, #4f86f7);
 
   @include large {
     padding: 5rem 6rem;
