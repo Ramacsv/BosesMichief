@@ -21,6 +21,24 @@ a {
   color: #ffffff;
 }
 
+.project-tagline {
+  color: #0000ff;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 5px 10px 25px;
+  text-transform: uppercase;
+
+  @include large {
+    font-size: 1.1875rem;
+  }
+
+  @include medium {
+    font-size: 1.0625rem;
+  }
+}
+
+
 .page-header {
   color:  #ff9505;
   text-align: center;
