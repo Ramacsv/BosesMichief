@@ -67,9 +67,9 @@ height: 200%;
   //color:  #ff9505;
   text-align: center;
   background-color: #4f86f7;
- // background-color: #ff0000;
+  background-color: #ff0000;
  // background-image: linear-gradient(220deg, #ca48a1, #4f86f7);
-
+background-image: linear-gradient(220deg, $header-bg-color-secondary, $header-bg-color);
   @include large {
     padding: 5rem 6rem;
   }
