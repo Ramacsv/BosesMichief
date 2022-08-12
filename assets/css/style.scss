@@ -43,15 +43,12 @@ a {
   background-image: url("../../logo/imgC.jpg");
   //background-image: url("../../logo/BannerSuitecaseD.svg");
   background-position: center;
-  background-repeat: no-repeat;
-//background-size: 1500px 1050px;
+  //background-repeat: no-repeat;
+background-repeat: repeat;
 // background-size: contain; //original
   background-size: 300% 300% ;
- // width: 100%;
-  //height: auto;
- // display: block;
-//height: 200%;
- // width: 200px;
+ display: block;
+
   margin: 0;
  font-size: 30px;
   
