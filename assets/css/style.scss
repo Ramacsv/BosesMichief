@@ -18,13 +18,14 @@ body {
   color:  #9a1518;
 }
 a {
-  color: #ffffff;
+  color: #0b54f4;
 }
 
 .project-tagline {
   color: #0000ff;
-  font-size: 0.9375rem;
-  font-weight: 400;
+ // font-size: 0.9375rem;
+  font-size: 1.25rem;
+  font-weight: 900;
   margin: 0;
   padding: 5px 10px 25px;
   text-transform: uppercase;
@@ -43,7 +44,8 @@ a {
   //background-image: url("../../logo/BannerSuitecaseD.svg");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 600px 200px;
+ // background-size: contain; //original
   //background-size: 100%;
  // width: 100%;
   height: auto;
