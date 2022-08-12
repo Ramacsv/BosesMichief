@@ -43,10 +43,10 @@ a {
   background-image: url("../../logo/imgC.jpg");
   //background-image: url("../../logo/BannerSuitecaseD.svg");
   background-position: center;
-  //background-repeat: no-repeat;
+  background-repeat: no-repeat;
    
    background-size: contain; //original
-  background-repeat: repeat;
+  //background-repeat: repeat;
  display: block;
 
   margin: 0;
@@ -67,7 +67,7 @@ a {
   text-align: center;
  // background-color: #4f86f7;
   background-color: #ff0000;
- background-image: linear-gradient(220deg, #ca48a1, #4f86f7);
+// background-image: linear-gradient(220deg, #ca48a1, #4f86f7);
 //background-image: linear-gradient(220deg, $header-bg-color-secondary, $header-bg-color);
   @include large {
     padding: 5rem 6rem;
