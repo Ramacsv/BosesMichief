@@ -42,7 +42,7 @@ a {
 .project-name {
   background-image: url("../../logo/imgC.svg");
   //background-image: url("../../logo/BannerSuitecaseD.svg");
-  background-position: center top;
+  background-position: center center;
  // background-repeat: no-repeat;
    
  // background-size: contain; //original
@@ -54,7 +54,7 @@ a {
  font-size: 30px;
   
   @include large {
-  height: 600px;
+  height: 650px;
   }
 
   @include medium {
