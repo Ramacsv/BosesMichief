@@ -40,7 +40,7 @@ a {
 }
 
 .project-name {
-  background-image: url("../../logo/imgC.jpg");
+  background-image: url("../../logo/imgC.svg");
   //background-image: url("../../logo/BannerSuitecaseD.svg");
   background-position: center;
  // background-repeat: no-repeat;
@@ -71,11 +71,11 @@ a {
 background-image: linear-gradient(220deg, #ca48a1, #4f86f7);
 //background-image: linear-gradient(220deg, $header-bg-color-secondary, $header-bg-color);
   @include large {
-   padding: 10rem 8rem;
+   padding: 1rem 1rem;
   }
 
   @include medium {
-   padding: 6rem 6rem;
+   padding: 1rem 1rem;
   }
 
   @include small {
