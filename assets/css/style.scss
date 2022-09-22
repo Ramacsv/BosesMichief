@@ -54,11 +54,11 @@ a {
  font-size: 30px;
   
   @include large {
-    height: 190px;
+ //   height: 190px;
   }
 
   @include medium {
-    height: 160px;
+ //   height: 160px;
   }
 }
 
@@ -71,15 +71,15 @@ a {
 background-image: linear-gradient(220deg, #ca48a1, #4f86f7);
 //background-image: linear-gradient(220deg, $header-bg-color-secondary, $header-bg-color);
   @include large {
-    padding: 5rem 6rem;
+ //   padding: 5rem 6rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+ //   padding: 3rem 4rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+//    padding: 2rem 1rem;
   }
 }
 
