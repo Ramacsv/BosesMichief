@@ -54,11 +54,11 @@ a {
  font-size: 30px;
   
   @include large {
- //   height: 190px;
+  height: 3000px;
   }
 
   @include medium {
- //   height: 160px;
+   height: 260px;
   }
 }
 
